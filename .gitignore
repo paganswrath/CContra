@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# so I dont get a lawsuit..
+
+Runtime/Assets/*.bin
+*.nes
+
+CContra
+CContra.exe
