@@ -3,7 +3,7 @@
 A Port of Contra from the NES / 6502 Asm - C Translation. 
 
 ## 
-**Legal Notice** - This Project contains NO Original Source code, NO Assets from the game, NO Original content Period. All game logic was taken from a clean room reverse engineering project of the original rom.
+**Legal Notice** - This Project contains NO Original Source code, NO Assets from the game, NO Original content Period. 
 ##
 
 ## ***Total Progress -> 0%***
